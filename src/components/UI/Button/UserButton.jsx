@@ -4,7 +4,7 @@ import cx from 'classnames';
 
 export const UserButton = ({ className, children }) => {
   const classList = cx(styles.btn, className);
-  return <div className={classList}>{children}</div>;
+  return <button className={classList}>{children}</button>;
 };
 UserButton.propTypes = {
   className: PropTypes.string,
