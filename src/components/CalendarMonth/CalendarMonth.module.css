@@ -1,0 +1,8 @@
+.container {
+}
+.month {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+  border: 1px solid #adadad;
+}

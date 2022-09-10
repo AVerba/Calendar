@@ -1,0 +1,31 @@
+.dayItem {
+  border: 1px solid #adadad;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dayRow {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  height: calc(87vh / 5);
+  font-family: 'Product Sans', Arial, sans-serif;
+}
+.weekDay {
+  margin: 0;
+  padding: 15px 0 0 0;
+}
+.day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin-top: 15px;
+}
+.active {
+  border-radius: 50%;
+  background-color: #1a73e8;
+  color: #fff;
+}

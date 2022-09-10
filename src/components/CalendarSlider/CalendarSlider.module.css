@@ -1,0 +1,20 @@
+.slider {
+  display: flex;
+  align-items: center;
+}
+
+.navBtn {
+  color: #5f6368;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+}
+.monthLabel {
+  color: #5f6368;
+  font-family: Google Sans, Roboto, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+}
