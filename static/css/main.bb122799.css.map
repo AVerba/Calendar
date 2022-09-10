@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.bb122799.css","mappings":"AAAA,KACE,eACF,CACA,MAEE,eACF","sources":["styles/base.css"],"sourcesContent":["body {\n  overflow: hidden;\n}\nul,\nli {\n  list-style: none;\n}\n"],"names":[],"sourceRoot":""}
